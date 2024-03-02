@@ -32,7 +32,7 @@ YAML         6 mins          ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/bhaskar-dey-043287201/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"  /></a>
+  <a href="https://www.linkedin.com/in/bhaskar-dey-043287201/", target=blank><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"  /></a>
   <a href="mailto:bhaskardey407@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo"  /></a>
   <a href="https://www.instagram.com/bhaskar_407?igsh=MWpjNXI0cjc1YzNnZw=="><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  /></a>
 </div>
