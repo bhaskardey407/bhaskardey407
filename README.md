@@ -41,13 +41,9 @@ I take great care in the experience, architecture, and code quality of the thing
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaskardey407&show_icons=true&default" alt="bhaskardey407" />
  <div>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskardey407&" alt="bhaskardey407" /></p>
-   <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaskardey407&show_icons=true&locale=en&layout=compact" alt="bhaskardey407" /  ></p>
-  <a href="https://github.com/bhaskardey407/convoychat">
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskardey407&" alt="bhaskardey407" /></p>
+  <a align="center" href="https://github.com/bhaskardey407/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaskardey407&layout=compact&langs_count=8&card_width=320" />
-</a>
+  </a>
  </div>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
 
