@@ -40,16 +40,16 @@ I take great care in the experience, architecture, and code quality of the thing
 
 📈 my github stats:
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaskardey407&show_icons=true&default" alt="bhaskardey407" />
-
-   <div style="display: flex; justify-content: center; align-items: center;">
-    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskardey407&" alt="bhaskardey407" width="465px" /></p>
-  <a href="https://github.com/bhaskardey407/convoychat">
+<div>
+ <p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaskardey407&show_icons=true&default" alt="bhaskardey407" /></p>
+ <a href="https://github.com/bhaskardey407/convoychat">
         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaskardey407&layout=compact&langs_count=8&card_width=320" width="335px" style="height: 400;" />
     </a>
-  <p align="center">
-      <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhaskardey407&theme=radical" alt="a2ys" /></p>
-</p>
+</div>
+
+   <div style="display: flex; justify-content: center; align-items: center;">
+    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskardey407&" alt="bhaskardey407"  /></p>
+  
 </div>
 
  
