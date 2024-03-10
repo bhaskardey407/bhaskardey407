@@ -9,7 +9,7 @@ I take great care in the experience, architecture, and code quality of the thing
 **languages and tools:**  
 
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="31" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<a href="https://react.dev/"><code><img height="31" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></code>
+<a href="https://react.dev/" target="blank"><code><img height="31" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></code>
 <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs"><code><img height="31" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code></a>
 <a href="https://devdocs.io/cpp/"><code><img height="31" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></a></code>
 <a href="https://docs.oracle.com/en/java/"><code><img height="31" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></a>></code>
