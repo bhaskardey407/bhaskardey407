@@ -50,7 +50,7 @@ I take great care in the experience, architecture, and code quality of the thing
 
  
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskardey407&" alt="bhaskardey407" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskardey407&" alt="bhaskardey407" /></p>
 
  
 
