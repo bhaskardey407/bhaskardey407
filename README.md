@@ -32,8 +32,7 @@ I take great care in the experience, architecture, and code quality of the thing
 🚧 **my hobbies:**
 <!-- HOBBIES:START -->
 🏓  Playing Table Tennis          
-⛩️  Watching Anime 
-🏃‍♀  Fitness
+⛩️  Watching Anime
 🎧  Listening to Music
 
 <!-- HOBBIES:END -->
