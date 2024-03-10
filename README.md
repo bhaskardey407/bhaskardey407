@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Bhaskar Dey and I'm a ML and AI Enthusiast and Developer</h2> 
 I take great care in the experience, architecture, and code quality of the things I build.
 
-  <img margin top=20px align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="340" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="340" style="margin-top: 20px;" />
   
 - 💼 any freelance work/project? do reach, [email](mailto:bhaskardey407@gmail.com) :)
 - 💬 ask me about anything, i am happy to help
