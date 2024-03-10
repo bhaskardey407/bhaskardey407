@@ -25,7 +25,7 @@ I take great care in the experience, architecture, and code quality of the thing
   <a href="https://leetcode.com/bhaskardey407/"><img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=rgb(255,%20183,%200)&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="leetcode logo"  /></a>
   <a href="https://www.instagram.com/bhaskar_407?igsh=MWpjNXI0cjc1YzNnZw=="><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"  /></a>
 </div>
-
+<br>
 🚧 **my hobbies:**
 <!-- HOBBIES:START -->
 🏓  Playing Table Tennis          
