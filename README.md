@@ -1,7 +1,4 @@
-   <div align="center">
-        <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/bhaskardey407"/>  
-    </div>
+![Header](./github-header-image.png)
 <h2 align="left">Hi 👋! My name is Bhaskar Dey and I'm a ML and AI Enthusiast and Developer</h2> 
 I take great care in the experience, architecture, and code quality of the things I build.
 
