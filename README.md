@@ -34,7 +34,6 @@ I take great care in the experience, architecture, and code quality of the thing
 🏓  Playing Table Tennis          
 ⛩️  Watching Anime
 🎧  Listening to Music
-
 <!-- HOBBIES:END -->
 
 
