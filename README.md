@@ -32,9 +32,10 @@ I take great care in the experience, architecture, and code quality of the thing
 🚧 **my hobbies:**
 <!-- HOBBIES:START -->
 🏓  Playing Table Tennis          
-⛩️  Watching Anime  
-🎧  Listening to Music
+⛩️  Watching Anime 
 🏃‍♀  Fitness
+🎧  Listening to Music
+
 <!-- HOBBIES:END -->
 
 
