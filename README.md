@@ -19,11 +19,6 @@ I take great care in the experience, architecture, and code quality of the thing
 <a href="https://www.tensorflow.org/guide"><code><img height="31" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"></a></code>
 
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 <div align="left">
   <a href="https://www.linkedin.com/in/bhaskar-dey-043287201/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  /></a>
   <a href="mailto:bhaskardey407@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo"  /></a>
