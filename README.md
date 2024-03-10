@@ -41,6 +41,6 @@ I take great care in the experience, architecture, and code quality of the thing
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bhaskardey407&show_icons=true&theme=gotham" alt="bhaskardey407" />
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=patil-ojas&" alt="patil-ojas" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskardey407&" alt="bhaskardey407" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=patil-ojas&show_icons=true&locale=en&layout=compact" alt="patil-ojas" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhakardey407&show_icons=true&locale=en&layout=compact" alt="bhaksardey407" /></p>
