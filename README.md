@@ -3,8 +3,9 @@ I take great care in the experience, architecture, and code quality of the thing
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="470" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:bhaskardey407@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 any freelance work/project? do reach, [email](mailto:bhaskardey407@gmail.com) :)
+- 💬 ask me about anything, i am happy to help
+- 📄 My Resume : <a href="https://drive.google.com/file/d/1_2wDkgHgLe0an-F97McbZ66XJlMMaC4B/view?usp=sharing">Resume</a>
 
 **languages and tools:**  
 
