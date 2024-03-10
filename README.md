@@ -46,11 +46,7 @@ I take great care in the experience, architecture, and code quality of the thing
         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaskardey407&layout=compact&langs_count=8&card_width=320" />
  </a>
 </div>
-
-   <div style="display: flex; justify-content: center; align-items: center;">
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskardey407&" alt="bhaskardey407"  /></p>
-  
-</div>
 
  
 
