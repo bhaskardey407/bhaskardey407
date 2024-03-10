@@ -47,7 +47,9 @@ I take great care in the experience, architecture, and code quality of the thing
   <a href="https://github.com/bhaskardey407/convoychat">
         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaskardey407&layout=compact&langs_count=8&card_width=320" width="335px" style="height: 400;" />
     </a>
-
+  <p align="center">
+      <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhaskardey407&theme=radical" alt="a2ys" /></p>
+</p>
 </div>
 
  
