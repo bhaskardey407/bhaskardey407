@@ -35,6 +35,6 @@ I take great care in the experience, architecture, and code quality of the thing
 <!-- HOBBIES:END -->
 
 
-📈 my github stats
+📈 my github stats:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bhaskardey407&show_icons=true&theme=gotham" alt="bhaskardey407" />
