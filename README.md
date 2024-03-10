@@ -27,6 +27,7 @@ I take great care in the experience, architecture, and code quality of the thing
   <a href="mailto:bhaskardey407@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo"  /></a>
   <a href="https://leetcode.com/bhaskardey407/"><img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=rgb(255,%20183,%200)&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="leetcode logo"  /></a>
   <a href="https://www.instagram.com/bhaskar_407?igsh=MWpjNXI0cjc1YzNnZw=="><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"  /></a>
+  <a href="https://x.com/bhaskar_407?t=pGbY-o9RNm0x4Ffev6eJjw&s=08"><img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="X logo"  /></a>
 </div>
 
 🚧 **my hobbies:**
