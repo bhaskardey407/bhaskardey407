@@ -2,7 +2,7 @@
 <h2 align="left">Hi 👋! My name is Bhaskar Dey and I'm a ML and AI Enthusiast and Developer</h2> 
 I take great care in the experience, architecture, and code quality of the things I build.
 
- <img align="right" alt="GIF" src="https://www.digitalsolutionservices.com/img/services/website1.gif" width="450" height="340"/>
+ <img align="right" alt="GIF" src="https://www.digitalsolutionservices.com/img/services/website1.gif" width="500" height="340"/>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskardey407&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskardey407" /> </p>
   
