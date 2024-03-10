@@ -39,6 +39,6 @@ I take great care in the experience, architecture, and code quality of the thing
 
 📈 my github stats:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bhaskardey407&show_icons=true&theme=codeSTACKr" alt="bhaskardey407" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bhaskardey407&show_icons=true&theme= moltack" alt="bhaskardey407" />
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskardey407&" alt="bhaskardey407" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaskardey407&show_icons=true&locale=en&layout=compact" alt="bhaskardey407" /></p>
